@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20261101-2150-Experimental"
+	Name="DESKTOP-JB89N9V"
+	Generator="ctest-4.4.5"
+	CompilerName="C:/Users/MASTERTECH/Downloads/ucrt64/bin/c++.exe"
+	CompilerVersion="16.2.0"
+	OSName="Windows"
+	Hostname="DESKTOP-JB89N9V"
+	OSRelease="10.0.26300"
+	OSVersion="Windows 10"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="7437"
+	TotalPhysicalMemory="8039"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2112.000000"
+	>
+	<Testing>
+		<StartDateTime>Nov 03 15:18 South Africa Standard Time</StartDateTime>
+		<StartTestTime>1793711907</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 03 15:18 South Africa Standard Time</EndDateTime>
+		<EndTestTime>1793711910</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": { "major": 3, "minor": 20, "patch": 0 },
+  "configurePresets": [
+    {
+      "name": "windows-msys2-ucrt64",
+      "displayName": "Windows - MSYS2 UCRT64 (Ninja)",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Release",
+        "CMAKE_PREFIX_PATH": "C:/msys64/ucrt64"
+      }
+    },
+    {
+      "name": "default-release",
+      "displayName": "Release build (default toolchain)",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build",
+      "cacheVariables": { "CMAKE_BUILD_TYPE": "Release" }
+    }
+  ],
+  "buildPresets": [
+    { "name": "release", "configurePreset": "windows-msys2-ucrt64" }
+  ],
+  "testPresets": [
+    { "name": "release", "configurePreset": "windows-msys2-ucrt64", "output": { "outputOnFailure": true } }
+  ]
+}

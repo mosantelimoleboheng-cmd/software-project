@@ -1,0 +1,5 @@
+-- The authoritative SQLite schema is initialised by Database::Database()
+-- in src/lms.cpp. The application executes CREATE TABLE IF NOT EXISTS
+-- statements during startup, enables foreign-key enforcement, and uses
+-- prepared statements with bound parameters through repository classes.
+-- Keep schema changes in sync with that initialisation block.

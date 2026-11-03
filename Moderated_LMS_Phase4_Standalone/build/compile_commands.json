@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/build",
+  "command": "C:\\Users\\MASTERTECH\\Downloads\\ucrt64\\bin\\cc.exe -IC:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/sqlite -O3 -DNDEBUG -std=gnu99 -o CMakeFiles\\sqlite3.dir\\sqlite\\sqlite3.c.obj -c C:\\Users\\MASTERTECH\\Documents\\assignment\\Moderated_LMS_Phase4_Standalone\\sqlite\\sqlite3.c",
+  "file": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/sqlite/sqlite3.c",
+  "output": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/build/CMakeFiles/sqlite3.dir/sqlite/sqlite3.c.obj"
+},
+{
+  "directory": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/build",
+  "command": "C:\\Users\\MASTERTECH\\Downloads\\ucrt64\\bin\\c++.exe -IC:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/include -IC:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/sqlite -isystem C:/msys64/ucrt64/include -O3 -DNDEBUG -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\lms_core.dir\\src\\lms.cpp.obj -c C:\\Users\\MASTERTECH\\Documents\\assignment\\Moderated_LMS_Phase4_Standalone\\src\\lms.cpp",
+  "file": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/src/lms.cpp",
+  "output": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/build/CMakeFiles/lms_core.dir/src/lms.cpp.obj"
+},
+{
+  "directory": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/build",
+  "command": "C:\\Users\\MASTERTECH\\Downloads\\ucrt64\\bin\\c++.exe -IC:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/include -IC:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/sqlite -isystem C:/msys64/ucrt64/include -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\ModeratedLMS.dir\\src\\main.cpp.obj -c C:\\Users\\MASTERTECH\\Documents\\assignment\\Moderated_LMS_Phase4_Standalone\\src\\main.cpp",
+  "file": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/src/main.cpp",
+  "output": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/build/CMakeFiles/ModeratedLMS.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/build",
+  "command": "C:\\Users\\MASTERTECH\\Downloads\\ucrt64\\bin\\c++.exe -IC:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/include -IC:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/sqlite -isystem C:/msys64/ucrt64/include -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\LMS_Tests.dir\\tests\\test_lms.cpp.obj -c C:\\Users\\MASTERTECH\\Documents\\assignment\\Moderated_LMS_Phase4_Standalone\\tests\\test_lms.cpp",
+  "file": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/tests/test_lms.cpp",
+  "output": "C:/Users/MASTERTECH/Documents/assignment/Moderated_LMS_Phase4_Standalone/build/CMakeFiles/LMS_Tests.dir/tests/test_lms.cpp.obj"
+}
+]
